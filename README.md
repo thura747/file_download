@@ -13,5 +13,5 @@ Open terminal, then type as follows:
 `python main.py --downloadDirectory <local/path/dir>`
 
 
-<img src="https://github.com/thura747/file_download/blob/master/pic/202021-10-20%2015-00-42.png?raw=true" width="100" height="100" />
+<img src="https://github.com/thura747/file_download/blob/master/pic/2021-10-20.png?raw=true" width="100" height="100" />
 
