@@ -49,7 +49,7 @@ class MediafireDownloader:
             self.media_fire_api.file_get_info(key)
             return True
         except mediafire.api.MediaFireApiError as e:
-            print("Wrong Key: ", key)
+            print("Incorrect Key: ", key)
 
     # @staticmethod
     def download_file(self, mediafire_key):
